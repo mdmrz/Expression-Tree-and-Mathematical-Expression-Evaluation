@@ -10,10 +10,15 @@ Custom Stack and Tree implementations are used without relying on built-in Pytho
  🛠 Features
  
 ● Convert **infix expressions** to **postfix** notation
+
 ● Build an **Expression Tree** from the postfix expression
+
 ● Recursively **evaluate** the expression using the tree
+
 ● Supports operators: `+`, `-`, `*`, `/`
+
 ● Handles parentheses in expressions
+
 ● Console-based application
 
  🏗 Data Structures Used
